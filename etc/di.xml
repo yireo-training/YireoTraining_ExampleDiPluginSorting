@@ -4,6 +4,4 @@
         <plugin name="first_example" type="YireoTraining\ExampleDiPluginSorting\Plugin\FirstPlugin" sortOrder="0"/>
         <plugin name="second_example" type="YireoTraining\ExampleDiPluginSorting\Plugin\SecondPlugin" sortOrder="1"/>
     </type>
-
-    <type name="Magento\Framework\Api\SearchCriteriaBuilder" shared="false"/>
 </config>
